@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+
+preferred-citation:
+  type: article
+  authors:
+
+    - family-names: "Gravanis"
+      given-names: "Georgios"
+#       orcid: "https://orcid.org/0000-0000-0000-0000"
+
+    - family-names: "Papadopoulou"
+      given-names: "Simira"
+#       orcid: "https://orcid.org/0000-0000-0000-0000"
+
+    - family-names: "Voutetakis"
+      given-names: "Spyros"
+#       orcid: "https://orcid.org/0000-0000-0000-0000"
+
+    - family-names: "Diamantaras"
+      given-names: "Konstantinos"
+#       orcid: "https://orcid.org/0000-0000-0000-0000"
+
+    - family-names: "Tsimpanogiannis"
+      given-names: "Ioannis N."
+#       orcid: "https://orcid.org/0000-0000-0000-0000"
+
+
+title: "CO2 in H2O diffusivity prediction"
+# date-released: 2024-12-31
+url: "https://www.sciencedirect.com/science/article/pii/S0378381224003005"
+  doi: "https://doi.org/10.1016/j.fluid.2024.114325"
+  journal: "Fluid Phase Equilibria"
+  pages: 114325
+  title: "A machine learning approach to predict CO2 diffusivity in liquid H2O over a wide pressure and temperature range"
+  volume: 592
+  year: 2025
